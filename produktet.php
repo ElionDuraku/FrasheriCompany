@@ -1,86 +1,10 @@
-<!DOCTYPE html>
-<html class="no-js" lang="zxx">
+<?php
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+include "inc/header.php";
 
-    <title>Shop Left Sidebar :: Lukas - Car Parts Store eCommerce HTML Template</title>
+?>
 
-    <!--== Favicon ==-->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
-    <!--== Google Fonts ==-->
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700%7CPoppins:400,400i,500,600&display=swap" rel="stylesheet">
-
-    <!-- build:css assets/css/app.min.css -->
-    <!--== Leaflet Min CSS ==-->
-    <link href="assets/css/leaflet.min.css" rel="stylesheet" />
-    <!--== Nice Select Min CSS ==-->
-    <link href="assets/css/nice-select.min.css" rel="stylesheet" />
-    <!--== Slick Slider Min CSS ==-->
-    <link href="assets/css/slick.min.css" rel="stylesheet" />
-    <!--== Magnific Popup Min CSS ==-->
-    <link href="assets/css/magnific-popup.min.css" rel="stylesheet" />
-    <!--== Slicknav Min CSS ==-->
-    <link href="assets/css/slicknav.min.css" rel="stylesheet" />
-    <!--== Animate Min CSS ==-->
-    <link href="assets/css/animate.min.css" rel="stylesheet" />
-    <!--== Ionicons Min CSS ==-->
-    <link href="assets/css/ionicons.min.css" rel="stylesheet" />
-    <!--== Font-Awesome Min CSS ==-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
-    <!--== Bootstrap Min CSS ==-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
-
-    <!--== Main Style CSS ==-->
-    <link href="assets/css/style.css" rel="stylesheet" />
-    <!--== Helper Min CSS ==-->
-    <link href="assets/css/helper.min.css" rel="stylesheet" />
-    <!-- endbuild -->
-
-    <!--[if lt IE 9]>
-    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-
-    <!--== Start Header Area ==-->
-    <header class="header-area">
-        <div class="container container-wide">
-            <div class="row align-items-center">
-                <div class="col-sm-4 col-lg-2">
-                    <div class="site-logo text-center text-sm-start">
-                        <a href="index.html"><img src="assets/img/logo.png" alt="Logo" /></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-7 d-none d-lg-block">
-                    <div class="site-navigation">
-                        <ul class="main-menu nav">
-                            <li><a href="index.html">Ballina</a></li>
-                            <li><a href="rrethnesh.html">Reth nesh</a></li>
-                            <li><a href="produktet.html">Produktet</a></li>
-                            <li><a href="kontakt.html">Kontakti</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-               
-                        <div class="responsive-menu d-lg-none">
-                            <button class="btn-menu">
-                                <i class="fa fa-bars"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!--== End Header Area ==-->
 
     <!--== Start Page Header Area ==-->
     <div class="page-header-wrap bg-img" data-bg="assets/img/bg/page-header-bg.jpg">
@@ -92,8 +16,8 @@
                             <h1>Produktet</h1>
 
                             <ul class="breadcrumb">
-                                <li><a href="index.html">Ballina</a></li>
-                                <li class="current"><a href="produktet.html">Produktet</a></li>
+                                <li><a href="index.php">Ballina</a></li>
+                                <li class="current"><a href="produktet.php">Produktet</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1552,154 +1476,8 @@
 
     
 
-     <!--== Start Footer Area Wrapper ==-->
-     <footer class="footer-area">
-        <div class="footer-widget-area">
-            <div class="container container-wide">
-                <div class="row mtn-40">
-                    <div class="col-lg-3">
-                        <div class="widget-item">
-                            <div class="about-widget">
-                                <a href="index.html"><img style="width: 600px;" src="assets/img/logo.png" alt="Logo" /></a>
-                                <p>Frasheri Compani ështe kompani e cila ofron artikuj industrial për te gjitha linjat e prodhimit. Pjese elektrike, pneumatike mekanike, hidraulike</p>
-                            </div>
-                        </div>
-                    </div>
+    <?php
 
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Faqet</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="index.html">Ballina</a></li>
-                                    <li><a href="rrethnesh.html">Rreth Nesh</a></li>
-                                    <li><a href="produktet.html">Produktet</a></li>
-                                    <li><a href="kontakt.html">Kontakti</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+include "inc/footer.php";
 
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Llojet e Produkteve</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="produktet.html">Pjese elektrike</a></li>
-                                    <li><a href="produktet.html">Pjese pneumatike</a></li>
-                                    <li><a href="produktet.html">Pjese mekanike</a></li>
-                                    <li><a href="produktet.html">Pjese hidraulike</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Rrjtet Sociale</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100063971625325">Facebook</a></li>
-                                    <li><a href="#">Instagram</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Lokacioni</h4>
-                            <div class="widget-body">
-                                <address>
-                                    Frasheri Company gjendet ne <br>Tirana, Albania  
-                                </address>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-copyright-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <div class="copyright-content">
-                            <p>
-                                &copy; Frasheri company,
-                                <script>
-                                    document.write(new Date().getFullYear())
-                                </script>
-                                .
-                                Made With by
-                                <a href="tcs-dev.com">TCS DEV</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--== End Footer Area Wrapper ==-->
-
-    <!-- Scroll Top Button -->
-    <button class="btn-scroll-top"><i class="ion-chevron-up"></i></button>
-
-
-    <!--== Start Responsive Menu Wrapper ==-->
-    <aside class="off-canvas-wrapper off-canvas-menu">
-        <div class="off-canvas-overlay"></div>
-        <div class="off-canvas-inner">
-            <!-- Start Off Canvas Content -->
-            <div class="off-canvas-content">
-                <div class="off-canvas-header">
-                    <div class="logo">
-                        <a href="index.html"><img src="assets/img/logo.png" alt="Logo"></a>
-                    </div>
-                    <div class="close-btn">
-                        <button class="btn-close"><i class="ion-android-close"></i></button>
-                    </div>
-                </div>
-
-                <!-- Content Auto Generate Form Main Menu Here -->
-                <div class="res-mobile-menu mobile-menu">
-
-                </div>
-            </div>
-        </div>
-    </aside>
-    <!--== End Responsive Menu Wrapper ==-->
-
-
-    <!--=======================Javascript============================-->
-    <!-- build:js assets/js/app.min.js -->
-    <!--=== Modernizr Min Js ===-->
-    <script src="assets/js/modernizr-3.6.0.min.js"></script>
-    <!--=== jQuery Min Js ===-->
-    <script src="assets/js/jquery.min.js"></script>
-    <!--=== jQuery Migration Min Js ===-->
-    <script src="assets/js/jquery-migrate.min.js"></script>
-    <!--=== Popper Min Js ===-->
-    <script src="assets/js/popper.min.js"></script>
-    <!--=== Bootstrap Min Js ===-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!--=== Slicknav Min Js ===-->
-    <script src="assets/js/jquery.slicknav.min.js"></script>
-    <!--=== Magnific Popup Min Js ===-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!--=== Slick Slider Min Js ===-->
-    <script src="assets/js/slick.min.js"></script>
-    <!--=== Nice Select Min Js ===-->
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <!--=== Leaflet Min Js ===-->
-    <script src="assets/js/leaflet.min.js"></script>
-    <!--=== Countdown Js ===-->
-    <script src="assets/js/countdown.js"></script>
-
-    <!--=== Active Js ===-->
-    <script src="assets/js/active.js"></script>
-    <!-- endbuild -->
-
-</body>
-
-</html>
+?>

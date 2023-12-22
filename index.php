@@ -1,86 +1,10 @@
-<!DOCTYPE html>
-<html class="no-js" lang="zxx">
+<?php
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+include "inc/header.php";
 
-    <title>Frasheri Company</title>
+?>
 
-    <!--== Favicon ==-->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
-    <!--== Google Fonts ==-->
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700%7CPoppins:400,400i,500,600&display=swap" rel="stylesheet">
-
-    <!-- build:css assets/css/app.min.css -->
-    <!--== Leaflet Min CSS ==-->
-    <link href="assets/css/leaflet.min.css" rel="stylesheet" />
-    <!--== Nice Select Min CSS ==-->
-    <link href="assets/css/nice-select.min.css" rel="stylesheet" />
-    <!--== Slick Slider Min CSS ==-->
-    <link href="assets/css/slick.min.css" rel="stylesheet" />
-    <!--== Magnific Popup Min CSS ==-->
-    <link href="assets/css/magnific-popup.min.css" rel="stylesheet" />
-    <!--== Slicknav Min CSS ==-->
-    <link href="assets/css/slicknav.min.css" rel="stylesheet" />
-    <!--== Animate Min CSS ==-->
-    <link href="assets/css/animate.min.css" rel="stylesheet" />
-    <!--== Ionicons Min CSS ==-->
-    <link href="assets/css/ionicons.min.css" rel="stylesheet" />
-    <!--== Font-Awesome Min CSS ==-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
-    <!--== Bootstrap Min CSS ==-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
-
-    <!--== Main Style CSS ==-->
-    <link href="assets/css/style.css" rel="stylesheet" />
-    <!--== Helper Min CSS ==-->
-    <link href="assets/css/helper.min.css" rel="stylesheet" />
-    <!-- endbuild -->
-
-    <!--[if lt IE 9]>
-    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-
-    <!--== Start Header Area ==-->
-    <header class="header-area">
-        <div class="container container-wide">
-            <div class="row align-items-center">
-                <div class="col-sm-4 col-lg-2">
-                    <div class="site-logo text-center text-sm-start">
-                        <a href="index.html"><img src="assets/img/logo.png" alt="Logo" /></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-7 d-none d-lg-block">
-                    <div class="site-navigation">
-                        <ul class="main-menu nav">
-                            <li><a href="index.html">Ballina</a></li>
-                            <li><a href="rrethnesh.html">Reth nesh</a></li>
-                            <li><a href="produktet.html">Produktet</a></li>
-                            <li><a href="kontakt.html">Kontakti</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-               
-                        <div class="responsive-menu d-lg-none">
-                            <button class="btn-menu">
-                                <i class="fa fa-bars"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!--== End Header Area ==-->
 
     <!--== Start Slider Area Wrapper ==-->
     <div class="slider-area-wrapper home-2">
@@ -93,7 +17,7 @@
                                 <div class="slide-content-inner">
                                     <h2>Frasheri Company</h2>
                                     <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h4>
-                                    <a class="btn btn-white" href="produktet.html">Shiko Produktet</a>
+                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +38,7 @@
                                 <div class="slide-content-inner">
                                     <h2>Frasheri Company</h2>
                                     <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h4>
-                                    <a class="btn btn-white" href="produktet.html">Shiko Produktet</a>
+                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a>
                                 </div>
                             </div>
                         </div>
@@ -204,7 +128,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <!-- <span><i class="ion-android-star-half"></i></span> -->
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -224,7 +148,7 @@
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-2.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-2.jpg" alt="Product" />
                                     </a>
@@ -238,7 +162,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Leather Steering Wheel</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
                                     <span class="price"><strong>Price:</strong> $615.00</span>
                                 </div>
 
@@ -256,7 +180,7 @@
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                     </a>
@@ -270,7 +194,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Hanging 4K Camera</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
                                     <span class="price"><strong>Price:</strong> $65.00</span>
                                 </div>
 
@@ -290,7 +214,7 @@
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-4.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-4.jpg" alt="Product" />
                                     </a>
@@ -304,7 +228,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -320,7 +244,7 @@
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-5.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-5.jpg" alt="Product" />
                                     </a>
@@ -334,7 +258,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -372,7 +296,7 @@
                     <div class="flash-deals-content">
                         <h2>FLASH DEALS</h2>
                         <h3>HURRY UP AND GET 25% DISCOUNT</h3>
-                        <a href="cart.html" class="btn btn-brand">Add to cart</a>
+                        <a href="cart.php" class="btn btn-brand">Add to cart</a>
 
                         <div class="deals-countdown-area">
                             <div class="ht-countdown" data-date="9/20/2023"></div>
@@ -470,7 +394,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-6.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-6.jpg" alt="Product" />
                                     </a>
@@ -484,7 +408,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -506,7 +430,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-7.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-7.jpg" alt="Product" />
                                     </a>
@@ -520,7 +444,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Leather Steering Wheel</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
                                     <span class="price"><strong>Price:</strong> $615.00</span>
                                 </div>
 
@@ -538,7 +462,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-8.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-8.jpg" alt="Product" />
                                     </a>
@@ -552,7 +476,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Hanging 4K Camera</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
                                     <span class="price"><strong>Price:</strong> $65.00</span>
                                 </div>
 
@@ -574,7 +498,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-9.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-9.jpg" alt="Product" />
                                     </a>
@@ -588,7 +512,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -606,7 +530,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-10.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-10.jpg" alt="Product" />
                                     </a>
@@ -620,7 +544,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -642,7 +566,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-11.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-11.jpg" alt="Product" />
                                     </a>
@@ -656,7 +580,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Hanging 4K Camera</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
                                     <span class="price"><strong>Price:</strong> $65.00</span>
                                 </div>
 
@@ -678,7 +602,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-12.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-12.jpg" alt="Product" />
                                     </a>
@@ -692,7 +616,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -710,7 +634,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-13.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-13.jpg" alt="Product" />
                                     </a>
@@ -724,7 +648,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star-half"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -746,7 +670,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-15.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-15.jpg" alt="Product" />
                                     </a>
@@ -760,7 +684,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
                                     <span class="price"><strong>Price:</strong> $165.00</span>
                                 </div>
 
@@ -782,7 +706,7 @@
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.html">
+                                    <a href="single-product.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-14.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-14.jpg" alt="Product" />
                                     </a>
@@ -796,7 +720,7 @@
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.html">Leather Steering Wheel</a></h4>
+                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
                                     <span class="price"><strong>Price:</strong> $615.00</span>
                                 </div>
 
@@ -824,7 +748,7 @@
                     <div class="col-12 text-center">
                         <div class="call-to-action-txt">
                             <h2>TË GJITHA LLOJET E PJESËVE QË JU <br> NEVOJITEN MUND TË GJENI KËTU</h2>
-                            <a href="shop-left-sidebar.html" class="btn btn-brand">Shiko Produktet</a>
+                            <a href="shop-left-sidebar.php" class="btn btn-brand">Shiko Produktet</a>
                         </div>
                     </div>
                 </div>
@@ -926,154 +850,9 @@
     </div>
     <!--== End Brand Logo Area Wrapper ==-->
 
-    <!--== Start Footer Area Wrapper ==-->
-    <footer class="footer-area">
-        <div class="footer-widget-area">
-            <div class="container container-wide">
-                <div class="row mtn-40">
-                    <div class="col-lg-3">
-                        <div class="widget-item">
-                            <div class="about-widget">
-                                <a href="index.html"><img style="width: 600px;" src="assets/img/logo.png" alt="Logo" /></a>
-                                <p>Frasheri Compani ështe kompani e cila ofron artikuj industrial për te gjitha linjat e prodhimit. Pjese elektrike, pneumatike mekanike, hidraulike</p>
-                            </div>
-                        </div>
-                    </div>
+<?php
 
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Faqet</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="index.html">Ballina</a></li>
-                                    <li><a href="rrethnesh.html">Rreth Nesh</a></li>
-                                    <li><a href="produktet.html">Produktet</a></li>
-                                    <li><a href="kontakt.html">Kontakti</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+include "inc/footer.php";
 
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Llojet e Produkteve</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="produktet.html">Pjese elektrike</a></li>
-                                    <li><a href="produktet.html">Pjese pneumatike</a></li>
-                                    <li><a href="produktet.html">Pjese mekanike</a></li>
-                                    <li><a href="produktet.html">Pjese hidraulike</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+?>
 
-                    <div class="col-sm-6 col-lg-2">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Rrjtet Sociale</h4>
-                            <div class="widget-body">
-                                <ul class="widget-list">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100063971625325">Facebook</a></li>
-                                    <li><a href="#">Instagram</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="widget-item">
-                            <h4 class="widget-title">Lokacioni</h4>
-                            <div class="widget-body">
-                                <address>
-                                    Frasheri Company gjendet ne <br>Tirana, Albania  
-                                </address>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-copyright-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <div class="copyright-content">
-                            <p>
-                                &copy; Frasheri company,
-                                <script>
-                                    document.write(new Date().getFullYear())
-                                </script>
-                                .
-                                Made With by
-                                <a href="tcs-dev.com">TCS DEV</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--== End Footer Area Wrapper ==-->
-
-    <!-- Scroll Top Button -->
-    <button class="btn-scroll-top"><i class="ion-chevron-up"></i></button>
-
-
-    <!--== Start Responsive Menu Wrapper ==-->
-    <aside class="off-canvas-wrapper off-canvas-menu">
-        <div class="off-canvas-overlay"></div>
-        <div class="off-canvas-inner">
-            <!-- Start Off Canvas Content -->
-            <div class="off-canvas-content">
-                <div class="off-canvas-header">
-                    <div class="logo">
-                        <a href="index.html"><img src="assets/img/logo.png" alt="Logo"></a>
-                    </div>
-                    <div class="close-btn">
-                        <button class="btn-close"><i class="ion-android-close"></i></button>
-                    </div>
-                </div>
-
-                <!-- Content Auto Generate Form Main Menu Here -->
-                <div class="res-mobile-menu mobile-menu">
-
-                </div>
-            </div>
-        </div>
-    </aside>
-    <!--== End Responsive Menu Wrapper ==-->
-
-
-    <!--=======================Javascript============================-->
-    <!-- build:js assets/js/app.min.js -->
-    <!--=== Modernizr Min Js ===-->
-    <script src="assets/js/modernizr-3.6.0.min.js"></script>
-    <!--=== jQuery Min Js ===-->
-    <script src="assets/js/jquery.min.js"></script>
-    <!--=== jQuery Migration Min Js ===-->
-    <script src="assets/js/jquery-migrate.min.js"></script>
-    <!--=== Popper Min Js ===-->
-    <script src="assets/js/popper.min.js"></script>
-    <!--=== Bootstrap Min Js ===-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!--=== Slicknav Min Js ===-->
-    <script src="assets/js/jquery.slicknav.min.js"></script>
-    <!--=== Magnific Popup Min Js ===-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!--=== Slick Slider Min Js ===-->
-    <script src="assets/js/slick.min.js"></script>
-    <!--=== Nice Select Min Js ===-->
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <!--=== Leaflet Min Js ===-->
-    <script src="assets/js/leaflet.min.js"></script>
-    <!--=== Countdown Js ===-->
-    <script src="assets/js/countdown.js"></script>
-
-    <!--=== Active Js ===-->
-    <script src="assets/js/active.js"></script>
-    <!-- endbuild -->
-
-</body>
-
-</html>
