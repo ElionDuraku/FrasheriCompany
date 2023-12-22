@@ -54,7 +54,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-4 col-lg-2">
                     <div class="site-logo text-center text-sm-start">
-                        <a href="index.php"><img src="assets/img/logo.png" alt="Logo" /></a>
+                        <a href="index.php"><img src="./assets/img/logo.png" alt="Logo" /></a>
                     </div>
                 </div>
 
@@ -69,13 +69,32 @@
                     </div>
                 </div>
 
-               
+                <div class="col-sm-8 col-lg-3">
+                    <div class="site-action d-flex justify-content-center justify-content-sm-end align-items-center">
+                        <ul class="login-reg-nav nav">
+                            <li><a href="login.php">Login</a></li>
+                            <li><a href="register.php">Register</a></li>
+                        </ul>
+
+                        <div class="mini-cart-wrap">
+                            <a href="cart.html" class="btn-mini-cart">
+                                <i class="ion-bag"></i>
+                                <!-- <span class="cart-total">3</span> -->
+                            </a>
+
+                            <div class="mini-cart-content">
+                                <div class="mini-cart-product">
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="responsive-menu d-lg-none">
                             <button class="btn-menu">
                                 <i class="fa fa-bars"></i>
                             </button>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>

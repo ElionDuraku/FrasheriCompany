@@ -7,7 +7,7 @@
                         <div class="widget-item">
                             <div class="about-widget">
                                 <a href="index.php"><img style="width: 600px;" src="assets/img/logo.png" alt="Logo" /></a>
-                                <p>Frasheri Compani ështe kompani e cila ofron artikuj industrial për te gjitha linjat e prodhimit. Pjese elektrike, pneumatike mekanike, hidraulike</p>
+                                <p>Frasheri Company ështe kompani e cila ofron artikuj industrial për te gjitha linjat e prodhimit. Pjese elektrike, pneumatike mekanike, hidraulike</p>
                             </div>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
 
                     <div class="col-sm-6 col-lg-2">
                         <div class="widget-item">
-                            <h4 class="widget-title">Rrjtet Sociale</h4>
+                            <h4 class="widget-title">Rrjetet Sociale</h4>
                             <div class="widget-body">
                                 <ul class="widget-list">
                                     <li><a href="https://www.facebook.com/profile.php?id=100063971625325">Facebook</a></li>
@@ -72,7 +72,7 @@
                     <div class="col-12 text-center">
                         <div class="copyright-content">
                             <p>
-                                &copy; Frasheri company,
+                                &copy; Frasheri Company,
                                 <script>
                                     document.write(new Date().getFullYear())
                                 </script>

@@ -16,7 +16,7 @@ include "inc/header.php";
                             <div class="slide-content">
                                 <div class="slide-content-inner">
                                     <h2>Frasheri Company</h2>
-                                    <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h4>
+                                    <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h3>
                                     <a class="btn btn-white" href="produktet.php">Shiko Produktet</a>
                                 </div>
                             </div>
@@ -128,8 +128,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <!-- <span><i class="ion-android-star-half"></i></span> -->
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
                                 <div class="product-item__action">
@@ -148,7 +148,7 @@ include "inc/header.php";
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-2.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-2.jpg" alt="Product" />
                                     </a>
@@ -162,8 +162,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
-                                    <span class="price"><strong>Price:</strong> $615.00</span>
+                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
                                 <div class="product-item__action">
@@ -180,7 +180,7 @@ include "inc/header.php";
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet">
                                         <img class="thumb-primary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                     </a>
@@ -194,8 +194,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
-                                    <span class="price"><strong>Price:</strong> $65.00</span>
+                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
                                 <div class="product-item__action">
@@ -214,7 +214,7 @@ include "inc/header.php";
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-4.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-4.jpg" alt="Product" />
                                     </a>
@@ -228,8 +228,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
                                 <div class="product-item__action">
@@ -244,7 +244,7 @@ include "inc/header.php";
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-5.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-5.jpg" alt="Product" />
                                     </a>
@@ -258,8 +258,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
                                 <div class="product-item__action">
@@ -394,7 +394,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-6.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-6.jpg" alt="Product" />
                                     </a>
@@ -408,16 +408,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">25%</span>
@@ -430,7 +430,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-7.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-7.jpg" alt="Product" />
                                     </a>
@@ -444,16 +444,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
-                                    <span class="price"><strong>Price:</strong> $615.00</span>
+                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <!-- End Product Item -->
@@ -462,7 +462,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-8.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-8.jpg" alt="Product" />
                                     </a>
@@ -476,16 +476,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
-                                    <span class="price"><strong>Price:</strong> $65.00</span>
+                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">35%</span>
@@ -498,7 +498,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-9.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-9.jpg" alt="Product" />
                                     </a>
@@ -512,16 +512,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <!-- End Product Item -->
@@ -530,7 +530,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-10.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-10.jpg" alt="Product" />
                                     </a>
@@ -544,16 +544,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">21%</span>
@@ -566,7 +566,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-11.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-11.jpg" alt="Product" />
                                     </a>
@@ -580,16 +580,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Hanging 4K Camera</a></h4>
-                                    <span class="price"><strong>Price:</strong> $65.00</span>
+                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">35%</span>
@@ -602,7 +602,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-12.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-12.jpg" alt="Product" />
                                     </a>
@@ -616,16 +616,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">17 inch Rims 8 Lug</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <!-- End Product Item -->
@@ -634,7 +634,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-13.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-13.jpg" alt="Product" />
                                     </a>
@@ -646,18 +646,18 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
-                                        <span><i class="ion-android-star-half"></i></span>
+                                        <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Locking Hub Diagram</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">21%</span>
@@ -670,7 +670,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-15.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-15.jpg" alt="Product" />
                                     </a>
@@ -684,16 +684,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Auto Clutch & Brake</a></h4>
-                                    <span class="price"><strong>Price:</strong> $165.00</span>
+                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="product-item__sale">
                                     <span class="sale-txt">25%</span>
@@ -706,7 +706,7 @@ include "inc/header.php";
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="single-product.php">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-14.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-14.jpg" alt="Product" />
                                     </a>
@@ -720,16 +720,16 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="single-product.php">Leather Steering Wheel</a></h4>
-                                    <span class="price"><strong>Price:</strong> $615.00</span>
+                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
-                                <div class="product-item__action">
+                                <!-- <div class="product-item__action">
                                     <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <!-- End Product Item -->
@@ -748,7 +748,7 @@ include "inc/header.php";
                     <div class="col-12 text-center">
                         <div class="call-to-action-txt">
                             <h2>TË GJITHA LLOJET E PJESËVE QË JU <br> NEVOJITEN MUND TË GJENI KËTU</h2>
-                            <a href="shop-left-sidebar.php" class="btn btn-brand">Shiko Produktet</a>
+                            <a href="produktet-left-sidebar.php" class="btn btn-brand">Shiko Produktet</a>
                         </div>
                     </div>
                 </div>

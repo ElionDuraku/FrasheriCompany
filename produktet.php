@@ -52,7 +52,7 @@ include "inc/header.php";
                                     <a href="#" class="image"><img src="assets/img/product/Product-9.jpg" alt="product" /></a>
                                     <div class="content">
                                         <a href="#" class="title">Injected humour</a>
-                                        <span class="price">$799.99</span>
+                                        <!-- <span class="price">$799.99</span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -67,7 +67,7 @@ include "inc/header.php";
                                     <a href="#" class="image"><img src="assets/img/product/Product-12.jpg" alt="product" /></a>
                                     <div class="content">
                                         <a href="#" class="title">Classical literature</a>
-                                        <span class="price">$599.99 <span class="old">$799.99</span></span>
+                                        <!-- <span class="price">$599.99 <span class="old">$799.99</span></span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -82,7 +82,7 @@ include "inc/header.php";
                                     <a href="#" class="image"><img src="assets/img/product/Product-13.jpg" alt="product" /></a>
                                     <div class="content">
                                         <a href="#" class="title">Classical literature</a>
-                                        <span class="price">$649.99 <span class="old">$799.99</span></span>
+                                        <!-- <span class="price">$649.99 <span class="old">$799.99</span></span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -144,7 +144,7 @@ include "inc/header.php";
 
                             <div class="col-sm-6">
                                 <div class="sort-by-wrapper">
-                                    <label for="sort" class="sr-only">Sort By</label>
+                                    <label for="sort" class="sr-only">Filtro</label>
                                     <select name="sort" id="sort">
                                         <option value="#">Pjeset </option>
                                         <option value="sbp">Pjese elektrike</option>
@@ -180,15 +180,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -200,7 +200,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -228,15 +228,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -248,7 +248,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -276,15 +276,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -296,7 +296,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -324,15 +324,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -344,7 +344,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -372,15 +372,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -392,7 +392,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -420,15 +420,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -440,7 +440,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -468,15 +468,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -488,7 +488,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -516,15 +516,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -536,7 +536,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -564,15 +564,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -584,7 +584,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -611,15 +611,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -631,7 +631,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -659,15 +659,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -679,7 +679,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -706,15 +706,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -726,7 +726,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -754,15 +754,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -774,7 +774,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -801,15 +801,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -821,7 +821,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -849,15 +849,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -869,7 +869,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -896,15 +896,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -916,7 +916,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -944,15 +944,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -964,7 +964,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -992,15 +992,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1012,7 +1012,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1039,15 +1039,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1059,7 +1059,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1086,15 +1086,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1106,7 +1106,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1133,15 +1133,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1153,7 +1153,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1181,15 +1181,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1201,7 +1201,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1229,15 +1229,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1249,7 +1249,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1277,15 +1277,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1297,7 +1297,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1325,15 +1325,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1345,7 +1345,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1372,15 +1372,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
-
+<!-- 
                                         <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1392,7 +1392,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
@@ -1419,15 +1419,15 @@ include "inc/header.php";
                                     <div class="product-item__content">
                                         <div class="product-item__info">
                                             <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <span class="price"><strong>Price:</strong> $165.00</span>
+                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
-                                        <div class="product-item__action">
+                                        <!-- <div class="product-item__action">
                                             <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                             <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div>
+                                        </div> -->
 
                                         <div class="product-item__desc">
                                             <p>Pursue pleasure rationally encounter consequences that are extremely painful.
@@ -1439,7 +1439,7 @@ include "inc/header.php";
                                     </div>
 
                                     <div class="product-item__sale">
-                                        <span class="sale-txt">25%</span>
+                                        <span class="sale-txt">Pjesë</span>
                                     </div>
                                 </div>
                             </div>
