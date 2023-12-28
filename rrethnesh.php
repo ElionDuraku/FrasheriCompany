@@ -35,42 +35,32 @@ include "inc/header.php";
                     <div class="col-lg-6 order-1 order-md-0">
                         <div class="about-content">
                             <h2 class="h3 mb-sm-20">Reth nesh</h2>
-                            <p>This is a list of automotive parts mostly for vehicles using internal combustion engines
-                                which are manufactured components of automobiles.</p>
-                            <p>This category is for components and parts that make up automobile (car) bodies including
-                                accessories.</p>
-                            <p>On motorbikes their main function is to shield the rider from wind, though not as completely
-                                as in a car, whereas on sports and racing motorcycles the main function is reducing drag
-                                when the rider</p>
+                            <p>Frasheri company
+                                I ka fillimet e veta qe nga viti 1998 me nje dyqan te vogel ne qender te Durresit dhe me vone  me nje magazine me te madhe dhe me diapazon artikujsh industrial.Krijuesi i firmes Nirvan Frasheri eshte personi qe e krijoi kte kompani, dhe e zhvilloi , dhe me pas e vazhduan femijet e tij deri sot qe kompania eshte bere e njohur ne gjithe vendin.Kjo kompani eshte e njohur ne fushen e industrise se lehte dhe te rende ku mund te gjeni cdo artikull qe ju nevojitet.Pervec kesaj suksesi i firmes eshte shpejtesia dhe korektesia e porosive te ciles veshtire te gjehen ne kompania te tjera.Cmimet me konkuruese ne treg dhe cilesia absolute....</p>
+                           
                         </div>
                     </div>
 
                     <div class="col-lg-6 order-0">
                         <div class="about-thumb mb-sm-30">
-                            <img src="assets/img/banner/a-1.jpg" alt="About" />
+                            <img src="assets/img/banner/banner-11.jpg" alt="About" />
                         </div>
                     </div>
                 </div>
 
                 <div class="row align-items-center sm-top">
-                    <div class="col-lg-6">
-                        <div class="about-thumb video-play mb-sm-30">
-                            <img src="assets/img/banner/a-2.jpg" alt="About" />
-                            <a href="https://www.youtube.com/watch?=17&v=S-UcVwzrAqo" class="btn-video-popup"><i
-                                class="ion-play"></i></a>
+                <div class="col-lg-6 order-0">
+                        <div class="about-thumb mb-sm-30">
+                            <img src="assets/img/banner/banner-22.jpg" alt="About" />
                         </div>
                     </div>
 
                     <div class="col-lg-6">
                         <div class="about-content">
-                            <h2 class="h3">Our mission</h2>
-                            <p>This is a list of automotive parts mostly for vehicles using internal combustion engines
-                                which are manufactured components of automobiles.</p>
-                            <p>This category is for components and parts that make up automobile (car) bodies including
-                                accessories.</p>
-                            <p>On motorbikes their main function is to shield the rider from wind, though not as completely
-                                as in a car, whereas on sports and racing motorcycles the main function is reducing drag
-                                when the rider</p>
+                            <h2 class="h3">Intorno a noi</h2>
+                            <p>Azienda Frasher
+                            Ha avuto inizio nel 1998 con un piccolo negozio nel centro di Durazzo e successivamente con un magazzino più grande con una gamma di articoli industriali.Il fondatore dell'azienda, Nirvan Frasheri, è la persona che ha creato questa azienda e l'ha sviluppata.e poi continuato dai figli fino ad oggi che l'azienda è diventata conosciuta su tutto il territorio nazionale.Questa azienda è conosciuta nel settore dell'industria leggera e pesante dove potete trovare ogni articolo di cui avete bisogno.Oltre a questo il successo dell'azienda è la velocità e correttezza degli ordini, difficilmente riscontrabili in altre aziende.I prezzi più competitivi sul mercato e la qualità assoluta....</p>
+                            
                         </div>
                     </div>
                 </div>

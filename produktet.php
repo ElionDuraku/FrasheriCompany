@@ -51,7 +51,7 @@ include "inc/header.php";
                                 <div class="sidebar-product">
                                     <a href="#" class="image"><img src="assets/img/product/Product-9.jpg" alt="product" /></a>
                                     <div class="content">
-                                        <a href="#" class="title">Injected humour</a>
+                                        <a href="#" class="title">Fotocelule</a>
                                         <!-- <span class="price">$799.99</span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
@@ -66,7 +66,7 @@ include "inc/header.php";
                                 <div class="sidebar-product">
                                     <a href="#" class="image"><img src="assets/img/product/Product-12.jpg" alt="product" /></a>
                                     <div class="content">
-                                        <a href="#" class="title">Classical literature</a>
+                                        <a href="#" class="title">Butona Sinjalizues</a>
                                         <!-- <span class="price">$599.99 <span class="old">$799.99</span></span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
@@ -81,7 +81,7 @@ include "inc/header.php";
                                 <div class="sidebar-product">
                                     <a href="#" class="image"><img src="assets/img/product/Product-13.jpg" alt="product" /></a>
                                     <div class="content">
-                                        <a href="#" class="title">Classical literature</a>
+                                        <a href="#" class="title">Motovibrator</a>
                                         <!-- <span class="price">$649.99 <span class="old">$799.99</span></span> -->
                                         <div class="ratting">
                                             <i class="fa fa-star"></i>
@@ -179,7 +179,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Valvula pneumatike</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -191,11 +191,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -227,7 +227,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Inverter</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -239,11 +239,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -275,7 +275,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Kontaktor</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -287,11 +287,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -323,7 +323,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Transformator</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -335,11 +335,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -371,7 +371,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Llampa sinjalizuese</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -383,11 +383,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -419,7 +419,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Encoder</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -431,11 +431,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -467,7 +467,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Sensor Induktiv</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -479,11 +479,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -515,7 +515,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Celes Parket</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -527,11 +527,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -563,7 +563,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Fotocelule</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -575,11 +575,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -610,7 +610,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Celesa Fundor</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -622,11 +622,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -637,53 +637,6 @@ include "inc/header.php";
                             </div>
                             <!-- End Product Item -->
 
-
-                            <!-- Start Product Item -->
-                            <div class="col-sm-6 col-lg-4">
-                                <div class="product-item">
-                                    <div class="product-item__thumb">
-                                        <a href="#">
-                                            <img class="thumb-primary" src="assets/img/product/Product-11.jpg" alt="Product" />
-                                            <img class="thumb-secondary" src="assets/img/product/Product-11.jpg" alt="Product" />
-                                        </a>
-
-                                        <div class="ratting">
-                                            <span><i class="ion-android-star"></i></span>
-                                            <span><i class="ion-android-star"></i></span>
-                                            <span><i class="ion-android-star"></i></span>
-                                            <span><i class="ion-android-star"></i></span>
-                                            <span><i class="ion-android-star"></i></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="product-item__content">
-                                        <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
-                                            <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
-                                        </div>
-
-                                        <!-- <div class="product-item__action">
-                                            <button class="btn-add-to-cart"><i class="ion-bag"></i></button>
-                                            <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
-                                            <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
-                                            <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                        </div> -->
-
-                                        <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
-                                                Nor
-                                                again is there anyone who loves or pursues or desires to obtain pain of
-                                                itself,
-                                                because it is pain, but because occasionally circles</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="product-item__sale">
-                                        <span class="sale-txt">Pjesë</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Product Item -->
 
                             <!-- Start Product Item -->
                             <div class="col-sm-6 col-lg-4">
@@ -705,7 +658,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Butona Sinjalizues</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -717,11 +670,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -753,7 +706,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Motovibrator</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -765,11 +718,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -800,7 +753,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Motoreduktor</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -812,11 +765,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -848,7 +801,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Valvula pneumatike</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -860,11 +813,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 
@@ -895,7 +848,7 @@ include "inc/header.php";
 
                                     <div class="product-item__content">
                                         <div class="product-item__info">
-                                            <h4 class="title"><a href="#">Auto Clutch & Brake</a></h4>
+                                            <h4 class="title"><a href="#">Valvula pneumatike</a></h4>
                                             <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                         </div>
 
@@ -907,11 +860,11 @@ include "inc/header.php";
                                         </div> -->
 
                                         <div class="product-item__desc">
-                                            <p>Pursue pleasure rationally encounter consequences that are extremely painful.
+                                            <!-- <p>Pursue pleasure rationally encounter consequences that are extremely painful.
                                                 Nor
                                                 again is there anyone who loves or pursues or desires to obtain pain of
                                                 itself,
-                                                because it is pain, but because occasionally circles</p>
+                                                because it is pain, but because occasionally circles</p> -->
                                         </div>
                                     </div>
 

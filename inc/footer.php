@@ -46,7 +46,7 @@
                             <div class="widget-body">
                                 <ul class="widget-list">
                                     <li><a href="https://www.facebook.com/profile.php?id=100063971625325">Facebook</a></li>
-                                    <li><a href="#">Instagram</a></li>
+                                    <li><a href="https://www.instagram.com/henri.frasheri/">Instagram</a></li>
                                 </ul>
                             </div>
                         </div>

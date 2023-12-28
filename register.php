@@ -15,9 +15,9 @@ include "inc/header.php";
                             <h1>Register</h1>
 
                             <ul class="breadcrumb">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="shop.html">Pages</a></li>
-                                <li class="current"><a href="#">Register</a></li>
+                                <li><a href="index.php">Ballina</a></li>
+                                <li><a href="produktet.html">Produktet</a></li>
+                                <li class="current"><a href="register.php">Register</a></li>
                             </ul>
                         </div>
                     </div>

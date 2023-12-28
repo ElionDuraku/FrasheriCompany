@@ -77,7 +77,7 @@
                         </ul>
 
                         <div class="mini-cart-wrap">
-                            <a href="cart.html" class="btn-mini-cart">
+                            <a href="produktet.php" class="btn-mini-cart">
                                 <i class="ion-bag"></i>
                                 <!-- <span class="cart-total">3</span> -->
                             </a>

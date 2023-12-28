@@ -9,15 +9,15 @@ include "inc/header.php";
     <!--== Start Slider Area Wrapper ==-->
     <div class="slider-area-wrapper home-2">
         <div class="slider-content-active">
-            <div class="slider-slide-item bg-img" data-bg="assets/img/slider/slider-1.jpg">
+            <div class="slider-slide-item bg-img" data-bg="assets/img/slider/1.jpg">
                 <div class="container container-wide h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-lg-6 order-1 order-lg-0">
                             <div class="slide-content">
                                 <div class="slide-content-inner">
-                                    <h2>Frasheri Company</h2>
+                                    <!-- <h2>Frasheri Company</h2>
                                     <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h3>
-                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a>
+                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a> -->
                                 </div>
                             </div>
                         </div>
@@ -30,15 +30,15 @@ include "inc/header.php";
                     </div>
                 </div>
             </div>
-            <div class="slider-slide-item bg-img" data-bg="assets/img/slider/slider-2.jpg">
+            <div class="slider-slide-item bg-img" data-bg="assets/img/slider/1.jpg">
                 <div class="container container-wide h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-lg-6 order-1 order-lg-0">
                             <div class="slide-content">
                                 <div class="slide-content-inner">
-                                    <h2>Frasheri Company</h2>
+                                    <!-- <h2>Frasheri Company</h2>
                                     <h3>Ne ofrojme &amp; artikuj industrial për te gjitha llojet e prodhimit</h4>
-                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a>
+                                    <a class="btn btn-white" href="produktet.php">Shiko Produktet</a> -->
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <!-- <span><i class="ion-android-star-half"></i></span> -->
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Valvula pneumatike</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -162,7 +162,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Inverter</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
@@ -180,7 +180,7 @@ include "inc/header.php";
                             <!-- Start Product Item -->
                             <div class="product-item">
                                 <div class="product-item__thumb">
-                                    <a href="produktet">
+                                    <a href="produktet.php">
                                         <img class="thumb-primary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                         <img class="thumb-secondary" src="assets/img/product/Product-3.jpg" alt="Product" />
                                     </a>
@@ -194,7 +194,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Kontaktor</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
@@ -228,7 +228,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Transformator</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -258,7 +258,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Llampa sinjalizueze</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -408,7 +408,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Encoder</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -444,7 +444,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Sensor induktiv</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
@@ -476,7 +476,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Celes Parket</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
@@ -512,7 +512,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Fotocelule</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -544,7 +544,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Celesa fundor</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -562,13 +562,14 @@ include "inc/header.php";
                         </div>
                         <!-- End Product Item -->
 
+
                         <!-- Start Product Item -->
                         <div class="col">
                             <div class="product-item">
                                 <div class="product-item__thumb">
                                     <a href="produktet.php">
-                                        <img class="thumb-primary" src="assets/img/product/Product-11.jpg" alt="Product" />
-                                        <img class="thumb-secondary" src="assets/img/product/Product-11.jpg" alt="Product" />
+                                        <img class="thumb-primary" src="assets/img/product/Product-14.jpg" alt="Product" />
+                                        <img class="thumb-secondary" src="assets/img/product/Product-14.jpg" alt="Product" />
                                     </a>
                                 </div>
 
@@ -580,8 +581,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
-                                    <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
+                                    <h4 class="title"><a href="produktet.php">Motoreduktor</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
                                 </div>
 
                                 <!-- <div class="product-item__action">
@@ -589,10 +590,6 @@ include "inc/header.php";
                                     <button class="btn-add-to-cart"><i class="ion-ios-loop-strong"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
-                                </div> -->
-
-                                <!-- <div class="product-item__sale">
-                                    <span class="sale-txt">35%</span>
                                 </div> -->
                             </div>
                         </div>
@@ -616,7 +613,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">17 inch Rims 8 Lug</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Butona sinjalizues</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -648,7 +645,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Locking Hub Diagram</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Motovibrator</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -684,7 +681,7 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Auto Clutch & Brake</a></h4>
+                                    <h4 class="title"><a href="produktet.php">Valvula pneumatike</a></h4>
                                     <!-- <span class="price"><strong>Price:</strong> $165.00</span> -->
                                 </div>
 
@@ -707,8 +704,8 @@ include "inc/header.php";
                             <div class="product-item">
                                 <div class="product-item__thumb">
                                     <a href="produktet.php">
-                                        <img class="thumb-primary" src="assets/img/product/Product-14.jpg" alt="Product" />
-                                        <img class="thumb-secondary" src="assets/img/product/Product-14.jpg" alt="Product" />
+                                        <img class="thumb-primary" src="assets/img/product/Product-19.jpg" alt="Product" />
+                                        <img class="thumb-secondary" src="assets/img/product/Product-19.jpg" alt="Product" />
                                     </a>
                                 </div>
 
@@ -720,8 +717,8 @@ include "inc/header.php";
                                         <span><i class="ion-android-star"></i></span>
                                         <span><i class="ion-android-star"></i></span>
                                     </div>
-                                    <h4 class="title"><a href="produktet.php">Leather Steering Wheel</a></h4>
-                                    <!-- <span class="price"><strong>Price:</strong> $615.00</span> -->
+                                    <h4 class="title"><a href="produktet.php">Hanging 4K Camera</a></h4>
+                                    <!-- <span class="price"><strong>Price:</strong> $65.00</span> -->
                                 </div>
 
                                 <!-- <div class="product-item__action">
@@ -730,9 +727,15 @@ include "inc/header.php";
                                     <button class="btn-add-to-cart"><i class="ion-ios-heart-outline"></i></button>
                                     <button class="btn-add-to-cart"><i class="ion-eye"></i></button>
                                 </div> -->
+
+                                <!-- <div class="product-item__sale">
+                                    <span class="sale-txt">35%</span>
+                                </div> -->
                             </div>
                         </div>
                         <!-- End Product Item -->
+
+                        
                     </div>
                 </div>
             </div>
@@ -748,7 +751,7 @@ include "inc/header.php";
                     <div class="col-12 text-center">
                         <div class="call-to-action-txt">
                             <h2>TË GJITHA LLOJET E PJESËVE QË JU <br> NEVOJITEN MUND TË GJENI KËTU</h2>
-                            <a href="produktet-left-sidebar.php" class="btn btn-brand">Shiko Produktet</a>
+                            <a href="produktet-left-sidebar.php" style="color: white" class="btn btn-brand">Shiko Produktet</a>
                         </div>
                     </div>
                 </div>
